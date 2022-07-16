@@ -1,0 +1,30 @@
+body { background-color: #F8F9D7;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 8px;
+    border-color: C4D7E0;
+    height: 0px;
+    width: 5%;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    align-content: center;
+    text-align: center;
+   
+}
+
+img {
+    max-width: 50%;
+    max-height: 50%;
+    position: relative;
+    top: 40px; left: 1000px;
+
+}
+
